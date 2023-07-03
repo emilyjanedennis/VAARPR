@@ -1,0 +1,11 @@
+# digesting fairfax county data
+
+# source : https://www.fcpod.org/pages/crime-data
+
+# for FOIA requests: FCPDFOIA@fairfaxcounty.gov
+# resource https://www.fairfaxcounty.gov/police/servicesiz/foia
+# requires name, legal address, and to identify requested records with reasonable specificity
+# cost: $3 for a complete report. Copies are .13/pg b&w letter, $.14 for ledger, colors are .19 or .20/pg
+# 911 recordings dpscrecordsrequest@fairfaxcounty.gov
+
+# weekly reports are downloadable wget https://www.fairfaxcounty.gov/apps/pfsu/api/file/crimereportsfromsp
